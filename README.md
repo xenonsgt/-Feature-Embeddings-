@@ -16,7 +16,7 @@ http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/xenons
 
 This concept allows to display neighboring features in a way that goes beyond classical (unsupervised) PCA based on ‘unprocessed features’ because the embedding vectors are a result of a learned model and based on high dimensional vectors. For instance, the current example seems to suggest that overweight (a high BMI) is a close neighbor to aggravated expressions of the given disease such as strong pain and other symptoms of high morbidity.
 
-Machine learning classifiers or regression models used in text analytics can therefore be created. In the current example, a neural network based on feature embeddings, a one dimensional convolutional layer and two bidirectional LSTM layers performed slightly lower than a standard random forest regressor on the same data set. The idea of ‘feature embeddings’ will need to be explored further to find out if it can be a valuable extension of the concept of word embeddings.
+Machine learning classifiers or regression models used in text analytics can therefore be created. In the current example, a neural network based on feature embeddings, a one dimensional convolutional layer and two bidirectional LSTM layers performed less than a standard random forest regressor on the same data set. The idea of ‘feature embeddings’ will need to be explored further to find out if it can be a valuable extension of the concept of word embeddings.
 
 
 
