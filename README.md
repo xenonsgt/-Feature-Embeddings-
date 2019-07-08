@@ -1,4 +1,4 @@
-# ‘Feature embeddings’
+# Feature embeddings
 This is an example of ‘feature embeddings’ based on a medical data set displayed in the TensorFlow projector. The idea of ‘feature embeddings’ is to extend the application of word embeddings to any kind of features. To do so features are discretized into bins if not categorical and then one-hot encoded. In the next step, for every record a ‘text’ is generated based on the one-hot encodings and the respective column header.
 
 For instance the new text representation of the features of a particular record will look like this:
