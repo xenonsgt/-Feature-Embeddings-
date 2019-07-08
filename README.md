@@ -9,7 +9,7 @@ And another one like this:
 
 “sex_2, extension_of_lesion_3, morbidity_state_4, bmi_3, current_smoker_1…..”
 
-Now, machine learning models based on word embeddings usually only used in text analytics can be applied in a data set with continuous and/or categorical features of any origin.
+Now, machine learning models based on word embeddings usually only used in text analytics can be applied in a data set with continuous and/or categorical features of any kind.
 The use of word embeddings gives every feature not just a weight but a vector in space. This allows the display of neighboring features based on the embedding vectors and PCA which can then be displayed in the TensorFlow projector as shown here:
 
 http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/xenonsgt/Disc/master/template_projector_config.json
