@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "LSTM",
+      "tensorName": "Disc",
       "tensorShape": [
         74,
         20
