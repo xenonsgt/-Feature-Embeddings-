@@ -1,0 +1,15 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "LSTM",
+      "tensorShape": [
+        74,
+        20
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/xenonsgt/Disc/master/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/xenonsgt/Disc/master/meta.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/xenonsgt/Disc/master/bookmarks.txt"
+    }
+  ]
+}
+
